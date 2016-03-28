@@ -1,5 +1,7 @@
 package com.ironyard.clt;
 
+import org.junit.Test;
+
 /**
  * Created by Ben on 3/26/16.
  */
