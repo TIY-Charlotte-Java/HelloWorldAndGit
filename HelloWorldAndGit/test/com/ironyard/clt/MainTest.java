@@ -1,6 +1,4 @@
-package com.ironyard.ben.sterrett;
-
-import static org.junit.Assert.*;
+package com.ironyard.clt;
 
 /**
  * Created by Ben on 3/26/16.
